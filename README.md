@@ -17,5 +17,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Hewerton Moreira
 
 - [Gmail](mailto:hewertonfm@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/hewerton-moreira-ba277354/)
-- [Twitter](https://www.twitter.com/notrew3h)
+- [LinkedIn](https://www.linkedin.com/in/hewmoreira/)
+- [Twitter](https://www.twitter.com/hewmoreira)
